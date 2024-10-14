@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello, this is main branch")
+	fmt.Println("Hello, this is v1 of this code")
 }
