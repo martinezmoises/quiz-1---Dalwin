@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello, this is v1 of this code")
+	fmt.Println("Hello, this is v1 of this code. This is Moises and George btw")
 }
